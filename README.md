@@ -22,3 +22,7 @@ There should be a environment as the background which is the prairie. 10 points 
 # What more could show in the program
 
 There could be more creatures in the environemnt, to creat a more complex ecological environment. For example, the wolf who could eat the sheep, and the hunter who would wipe out them both.
+
+# The licence
+
+[The licence of this program](https://github.com/jzkkaka/GEOG5990-zikang_ji/blob/master/LICENSE)
