@@ -25,4 +25,4 @@ There could be more creatures in the environemnt, to creat a more complex ecolog
 
 # The licence
 
-[The licence of this program](https://github.com/jzkkaka/GEOG5990-zikang_ji/blob/master/LICENSE)
+[Click me](https://github.com/jzkkaka/GEOG5990-zikang_ji/blob/master/LICENSE)
