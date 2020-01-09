@@ -52,7 +52,7 @@ class Agent:
         else:
             self.y = (self.y - 1) % 300
 
-    def eat(self):  # can you make it eat what is left?
+    def eat(self): 
         if self.environment[self.y][self.x] > 10:
             self.environment[self.y][self.x] -= 10
             self.store += 10
