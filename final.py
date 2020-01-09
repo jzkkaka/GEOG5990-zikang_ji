@@ -26,7 +26,6 @@ agents = []
 fig = matplotlib.pyplot.figure(figsize=(10, 10))
 ax = fig.add_axes([0, 0, 1, 1])
 
-# ax.set_autoscale_on(False)
 
 # get enviroment
 environment = []
