@@ -13,7 +13,7 @@ This is a simple program to show 10 sheeps eats the grass. In the program, we us
 
 # Run mode
 
-Press the Run file(F5) with final.py, there will be two new window pop-up in Spyder, model and figure 1. Then click the button model in the model, and click run model in the pull-down menu. The program should run automatically at the window model.
+Press the Run file(F5) in final.py, there will be two new window pop-up in Spyder, model and figure 1. Then click the button model in the model, and click run model in the pull-down menu. The program should run automatically at the window model.
 
 # What should show in the program
 
