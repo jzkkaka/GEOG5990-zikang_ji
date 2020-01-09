@@ -69,8 +69,7 @@ def gen_function(b=[0]):
 
 def run():
     animation = matplotlib.animation.FuncAnimation(fig, update, frames=gen_function, repeat=True)
-    # matplotlib.pyplot.show()
-    #canvas.draw()
+
     canvas.draw()
 
 root = tkinter.Tk()
