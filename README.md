@@ -17,7 +17,7 @@ Press the Run file(F5) in final.py, there will be two new window pop-up in Spyde
 
 # What should show in the program
 
-There should be a environment as the background which is the prairie. 10 points should be at the top left corner an the begining, and then all move randomly all over the 'prairie' 1 grid 1 time, and 'eat' every grass they had walk through. And the iterations would be 100.
+There should be a environment as the background which is the prairie. 10 dots should be at the top left corner at the begining as the sheeps, and then all move randomly over the 'prairie' one grid in one move, and 'eat' every grass they had walk through. And the iterations would be 100.
 
 # What more could show in the program
 
